@@ -30,8 +30,7 @@ pip install -r requirements.txt
 ```
 # How to run
 Please go in to the file create_chromadb.py and run this file first
-# Run app
-
+After that please run this in the command prompt
 ```
-./run.sh
-```"# Chatbot---Literature" 
+streamlit run app.py
+```
